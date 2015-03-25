@@ -1,0 +1,7 @@
+/SVNTester/*.user
+/SVNTester/obj
+/SVNTester/bin
+/SVNWrapper/bin
+/SVNWrapper/obj
+/SVNWrapper/StyleCop.Cache
+/SVNWrapper/*.user
